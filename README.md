@@ -1,2 +1,2 @@
 # javascript
-learning js
+learning js/ Fundamentos
